@@ -1,0 +1,205 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#top {
+    width: 100%;
+    height: 60%;
+    background-image: url(https://i.etsystatic.com/42163938/r/il/c94776/4831100621/il_fullxfull.4831100621_g5hr.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+}
+
+
+#bottom {
+    width: 100%;
+    height: 70%;
+    /* background-color: rgb(112, 93, 171); */
+    display: flex;
+}
+
+#hi {
+    width: 25%;
+    height: 100%;
+    background-color: pink;
+
+}
+
+#hii {
+    width: 25%;
+    height: 100%;
+    background-image: url("https://images2.alphacoders.com/270/thumb-1920-270990.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#hiii {
+    width: 75%;
+    height: 100%;
+    background-color: rgb(227, 166, 197);
+    background-image: url("https://images.alphacoders.com/602/602300.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+#hiiibottom {
+    width: 50%;
+    height: 60%;
+    background-color: rgb(91, 72, 154);
+    background-image: url("https://images2.alphacoders.com/266/266800.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#hiiitop {
+    width: 50%;
+    height: 40%;
+    background-color: rgb(103, 164, 208);
+}
+
+#hiiii {
+    width: 30%;
+    height: 100%;
+    background-color: grey;
+
+
+
+}
+
+h5 {
+    background-color: rgb(243, 155, 61);
+    height: 100%;
+    text-align: center;
+    padding: 30px;
+    align-items: baseline;
+}
+
+h3 {
+    background-color: pink;
+    padding: 0%;
+}
+
+h2 {
+    background-color: grey;
+    color: black;
+}
+
+
+
+#text {
+    width: 100%;
+    /* background-color: rgb(135, 185, 168); */
+    position: absolute;
+    bottom: 20%;
+    padding: 0 10vw;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+}
+
+#overlay {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    bottom: 20%;
+
+}
+
+#text h1 {
+    font-size: 3vw;
+    color: rgb(180, 122, 14);
+    font-weight: 500;
+
+}
+
+#textright {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#textright p {
+    font-size: 12px;
+    width: 40%;
+}
+
+#textright i {
+    color: black;
+}
+
+h4 {
+    color: black;
+    font-size: 70px;
+    height: 200px;
+    text-align: center;
+    align-content: center;
+
+
+}
+
+.about {
+    color: white;
+    position: relative;
+    height: 70vh;
+    align-items: center;
+
+}
+
+.background {
+    background-image: url("https://wallpaperaccess.com/full/2076143.jpg");
+    position: absolute;
+    background-size: cover;
+    height: 200%;
+    width: 100%;
+    z-index: -1;
+}
+
+.para {
+    font-size: 20px;
+    line-height: 1.5;
+    padding-bottom: 50%;
+
+}
+
+.data {
+    max-width: 50%;
+    padding: 20px;
+    text-align: left;
+}
+
+.add {
+    width: 100%;
+    background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/12/furniture-02.jpg");
+    font-weight: 500px;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    align-items: center;
+    position: absolute;
+    padding: 20px;
+    text-align: left;
+    color: black;
+    height: 200%;
+}
+
+.con {
+    text-align: left;
+    font-size: 18px;
+}
+
+footer {
+
+    font-size: 20px;
+}
